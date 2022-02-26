@@ -1,0 +1,29 @@
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\SHOP OOP.exe.config
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\SHOP OOP.exe
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\SHOP OOP.pdb
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\MetroFramework.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP OOP.csproj.AssemblyReference.cache
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP_OOP.Properties.Resources.resources
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP OOP.csproj.GenerateResource.cache
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP OOP.csproj.CoreCompileInputs.cache
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP OOP.exe
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP OOP.pdb
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\MySql.Data.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\Google.Protobuf.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\ZstdNet.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\System.Memory.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\System.Buffers.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ruslan666\source\repos\SHOP OOP\bin\Debug\MySql.Data.xml
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP OOP.exe.config
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP_OOP.Authorization.resources
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP_OOP.Orders.resources
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP_OOP.Order.resources
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP_OOP.Info.resources
+C:\Users\ruslan666\source\repos\SHOP OOP\obj\Debug\SHOP_OOP.Redactor.resources
